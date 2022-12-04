@@ -1,0 +1,29 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table,th,td
+      {
+        border:2px solid rgb(222, 191, 191);
+      }
+      table
+      {
+        border-collapse:collapse;
+        width:98%;
+      }
+      td
+      {
+        height:40px;
+      }
+      tr
+      {
+        background-color:rgb(184, 247, 184);
+        color:rgb(0, 0, 0);
+      }
+      th
+      {
+        background-color:yellow;
+        color:black;
+      }
